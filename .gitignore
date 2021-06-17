@@ -4,3 +4,4 @@ target/
 .project
 .settings/
 .vscode/
+src/main/resources/application.properties
